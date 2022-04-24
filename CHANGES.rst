@@ -5,6 +5,7 @@ These features will be included in the next release:
 
 Added
 -----
+- Only run ``isort`` and ``flake8`` once in the CI build.
 
 Fixed
 -----
